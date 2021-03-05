@@ -1,12 +1,6 @@
-# GHBit
+# Joystick-new-bit-handle
 
-Extension for Yahboom GHBit_V1/V2 3.0.3
+![Sin título](https://user-images.githubusercontent.com/80070044/110160306-987b1100-7dca-11eb-91af-8d53caa879dc.jpg)
 
-## License
+toda la indormacion de uso y programación en: https://www.yahboom.net/study/SGH
 
-MIT
-
-## Supported targets
-
-* for PXT/microbit
-(The metadata above is needed for package search.)
